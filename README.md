@@ -6,12 +6,14 @@ answer the key business questions, I will follow the steps of the data analysis 
 share, and act.
 
 Scenario
+
 As a junior data analyst working in the marketing analyst team at Cyclistic, a bike-share company in Chicago. The director
 of marketing believes the company’s future success depends on maximizing the number of annual memberships. Therefore,
 my team wants to understand how casual riders and annual members use Cyclistic bikes differently. From these insights,
 my team will design a new marketing strategy to convert casual riders into annual members.
 
 Who is Cyclistic ?
+
 A bike-share program that features more than 5,800 bicycles and 600 docking stations. Cyclistic sets itself
 apart by also offering reclining bikes, hand tricycles, and cargo bikes, making bike-share more inclusive to people with
 disabilities and riders who can’t use a standard two-wheeled bike. The majority of riders opt for traditional bikes; about
@@ -19,6 +21,7 @@ disabilities and riders who can’t use a standard two-wheeled bike. The majorit
 commute to work each day.
 
 Key tasks
+
 1. Download data and store it appropriately.
 2. Check the data for errors.
 3. Choose your tools.
