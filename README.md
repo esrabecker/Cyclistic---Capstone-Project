@@ -20,6 +20,10 @@ disabilities and riders who can’t use a standard two-wheeled bike. The majorit
 8% of riders use the assistive options. Cyclistic users are more likely to ride for leisure, but about 30% use them to
 commute to work each day.
 
+About Dataset
+
+There's 12 files for each month and totally 5883043 rows and 13 columns. 
+
 Key tasks
 
 1. Download data and store it appropriately.
